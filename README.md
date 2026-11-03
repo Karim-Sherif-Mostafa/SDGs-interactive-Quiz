@@ -1,4 +1,4 @@
-<img width="611" height="206" alt="image" src="https://github.com/user-attachments/assets/ce4a5b4a-2065-4053-be81-0906217df3a2" /># SDGs-interactive-Quiz
+# SDGs-interactive-Quiz
 Sustainable Development Goals Knowledge spread and check
 [readme_md.md](https://github.com/user-attachments/files/34300431/readme_md.md)
 # 🌐 SDG Quest - 10-Level Sustainability Challenge
