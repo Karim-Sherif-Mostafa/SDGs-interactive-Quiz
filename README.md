@@ -1,4 +1,4 @@
-# SDGs-interactive-Quiz
+<img width="611" height="206" alt="image" src="https://github.com/user-attachments/assets/ce4a5b4a-2065-4053-be81-0906217df3a2" /># SDGs-interactive-Quiz
 Sustainable Development Goals Knowledge spread and check
 [readme_md.md](https://github.com/user-attachments/files/34300431/readme_md.md)
 # 🌐 SDG Quest - 10-Level Sustainability Challenge
@@ -15,7 +15,7 @@ Players register their profile, navigate through 10 dynamic levels, inspect glob
 
 ## 🎮 Play the Game Live
 
-👉 **[Click Here to Launch SDG Quest](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/)**  
+👉 **[Click Here to Launch SDG Quest](https://karim-sherif-mostafa.github.io/SDGs-interactive-Quiz/)**  
 *(Note: Replace `YOUR-GITHUB-USERNAME` and `YOUR-REPO-NAME` with your actual GitHub link).*
 
 ---
@@ -61,15 +61,7 @@ Players register their profile, navigate through 10 dynamic levels, inspect glob
 
 ---
 
-## 💻 Running Locally
 
-No build tools, compilers, or Node.js required!
-
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME.git
-   ```
-2. Open `index.html` directly in any web browser (Chrome, Firefox, Safari, Edge).
 
 ---
 
